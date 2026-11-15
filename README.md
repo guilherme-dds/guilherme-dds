@@ -80,11 +80,11 @@ Sou apaixonado por tecnologia desde muito jovem e estou em constante busca de ap
 
 <br/>
 
-<a href="https://github.com/guilherme-dds"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bfdbfe" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/guilhermedds"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=bfdbfe" alt="LinkedIn" /></a>
+<a href="https://github.com/guilherme-dds"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/guilhermedds"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" /></a>
 <!-- Descomente e substitua pelos seus dados:
 
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=bfdbfe" alt="E-mail" /></a>
+<a href="mailto:SEU-EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="E-mail" /></a>
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3b82f6,50:1d4ed8,100:172554&section=footer" width="100%" alt="" />
