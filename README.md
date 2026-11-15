@@ -39,7 +39,7 @@ Sou apaixonado por tecnologia desde muito jovem e estou em constante busca de ap
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-dds&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=c9d1d9&locale=pt-br&langs_count=6" alt="Linguagens mais usadas" />
+<img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" width="100%" alt="Linguagens mais usadas" />
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Sou apaixonado por tecnologia desde muito jovem e estou em constante busca de ap
 
 <img src="https://streak-stats.demolab.com/?user=guilherme-dds&hide_border=true&background=0D111700&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&currStreakNum=eff6ff&sideNums=eff6ff&locale=pt_BR" width="100%" alt="Sequência de contribuições" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-dds&bg_color=00000000&color=60a5fa&line=3b82f6&point=eff6ff&area=true&area_color=1d4ed8&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" alt="Gráfico de contribuições" />
+<img src="./profile-summary-card-output/transparent/0-profile-details.svg" width="100%" alt="Gráfico de contribuições" />
 
 </div>
 
